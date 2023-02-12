@@ -1,0 +1,40 @@
+/* Write your CSS here */
+
+.bg-color {
+  background-color: #f1f5f8;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px;
+}
+
+.heading {
+  color: #2d3a35;
+  font-family: roboto;
+  font-size: 30px;
+  font-weight: bold;
+}
+.span {
+  color: #c20a72;
+  font-weight: roboto;
+  font-size: 30px;
+}
+
+.paragraph {
+  font-family: roboto;
+  font-size: 15px;
+  color: #2d3a35;
+}
+
+.button {
+  background-color: #007bff;
+  border-radius: 5px;
+  border-width: 0px;
+  color: #ffffff;
+  font-family: roboto;
+  font-size: 8px;
+  text-align: center;
+  padding: 8px;
+}
